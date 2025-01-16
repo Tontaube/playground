@@ -18,6 +18,7 @@ to give away for specific projects (you need to allocate time first, that's the 
 Intel NUC8i5BEH2
 * Intel SSD 660p 512GB
 * DDR4 2x 16GB
+* without windows license
 
 to borrow or sell
 
